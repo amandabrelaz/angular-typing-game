@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-typing-game"
+    }
+  },
+  "defaultProject": "angular-typing-game",
+  "cli": {
+    "analytics": false
+  }
 }
