@@ -1,5 +1,14 @@
 # AngularTypingGame
 
+--> Angular focused Typing game that:  
+.Randomly generates latim text  
+.User has to type in the same text as the generated one  
+.If a character is incorrect, the random generated text color: red  
+.If a character is correct, the color: green  
+.When not typed in yet, color: grey  
+
+![alttext](https://github.com/amandabrelaz/angular-typing-game/blob/master/tp-final.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
 
 ## Development server
